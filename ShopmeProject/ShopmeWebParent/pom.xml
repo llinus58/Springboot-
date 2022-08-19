@@ -28,12 +28,31 @@
 			<artifactId>spring-boot-starter-web</artifactId>
 			
 		</dependency>
+		
+		
+		<dependency>
+			<groupId>org.thymeleaf.extras</groupId>
+			<artifactId>thymeleaf-extras-springsecurity5</artifactId>
+			
+		</dependency>
+		
+		
+		<dependency>
+			<groupId>org.springframework.boot</groupId>
+			<artifactId>spring-boot-starter-security</artifactId>
+			
+		</dependency>
+		
+		
 	
 		<dependency>
 			<groupId>org.springframework.boot</groupId>
 			<artifactId>spring-boot-starter-thymeleaf</artifactId>
 		</dependency>
 		
+
+		
+
 
 <!-- https://mvnrepository.com/artifact/org.springframework.boot/spring-boot-starter-data-jpa -->
 <dependency>
@@ -78,6 +97,10 @@
 			<artifactId>ShopmeCommon</artifactId>
 			<version>0.0.1-SNAPSHOT</version>
 		</dependency>
+		
+	
+
+		
 	</dependencies>
 
 	
